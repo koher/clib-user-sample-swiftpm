@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "clib-sample-a-swiftpm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/koher/clib-sample-a-swiftpm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "776b1ccc877e1b8b222f0f011ddf81887d95e8d7"
+      }
+    },
+    {
+      "identity" : "clib-sample-b-swiftpm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/koher/clib-sample-b-swiftpm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c963059abf7c2a7e0e8474e56f92962ea70c29df"
+      }
+    }
+  ],
+  "version" : 2
+}
